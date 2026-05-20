@@ -1,0 +1,72 @@
+==============================================================================
+PHASE 2 & 3 EXTRANEOUS BIOLOGICAL REPORT (Jamilene's Completed Tasks)
+==============================================================================
+
+------------------------------------------------------------------------------
+PHASE 2: PAIRWISE RETENTION RATES
+------------------------------------------------------------------------------
+Shows how well each algorithm retains the fine-grained relationship pairs
+from Dr. Villar's MCL baseline clusters across different inflation levels (I).
+
+Inflation  Total Pairs    Leiden   Louvain  Label Propagation  SBM (Spectral proxy)  Clique Percolation  Consensus  MCL (XGW baseline)
+    I=2.0        23943 77.016247 75.324730          94.190369             99.573988           77.529967  77.429729           28.058305
+    I=3.0        10618 79.704276 77.585233          96.901488             99.180637           82.454323  80.090413           70.126201
+    I=4.0         7617 78.928712 76.644348          96.730996             98.857818           83.037941  79.834581          100.000000
+    I=5.0         6107 79.515310 77.828721          96.201081             98.739152           83.396103  80.956280           98.935648
+
+==============================================================================
+PHASE 3: COARSE COMMUNITY LUMPING / OVER-PARTITIONING MAPPINGS
+         For Marxel to detail in Section VII-C (Biological Discussion)
+==============================================================================
+
+We analyze three major yeast complexes from CYC2008 ground-truth and trace
+how they are clustered (or lumped into giant hairball communities) by the
+different graph-based algorithms compared to MCL (XGW baseline).
+
+------------------------------------------------------------------------------
+Complex: 20S proteasome
+Ground-Truth Size in CYC2008: 14 proteins
+------------------------------------------------------------------------------
+Proteins: YBL041W, YER012W, YER094C, YFR050C, YGL011C, YGR135W, YGR253C, YJL001W, YML092C, YMR314W, YOL038W, YOR157C, YOR362C, YPR103W
+
+  Algorithm                    Subunits Found   Best Comm Size   Behavior / Community ID
+  ---------------------------- ---------------- ---------------- ------------------------
+  Leiden                       14/14                       203  LUMPED into giant community (ID 9) containing 203 proteins
+  Louvain                      14/14                       916  LUMPED into giant community (ID 0) containing 916 proteins
+  Label Propagation            14/14                      3840  LUMPED into giant community (ID 0) containing 3840 proteins
+  SBM (Spectral proxy)         14/14                      4540  LUMPED into giant community (ID 0) containing 4540 proteins
+  Clique Percolation           14/14                      1869  LUMPED into giant community (ID 0) containing 1869 proteins
+  Consensus                    14/14                       980  LUMPED into giant community (ID 0) containing 980 proteins
+  MCL (XGW baseline)            4/14                         5  PARTIALLY RECOVERED (4/14 subunits in ID 123 of size 5)
+
+------------------------------------------------------------------------------
+Complex: DNA-directed RNA polymerase II complex
+Ground-Truth Size in CYC2008: 12 proteins
+------------------------------------------------------------------------------
+Proteins: YBR154C, YDL140C, YDR404C, YGL070C, YHR143W-A, YIL021W, YJL140W, YOL005C, YOR151C, YOR210W, YOR224C, YPR187W
+
+  Algorithm                    Subunits Found   Best Comm Size   Behavior / Community ID
+  ---------------------------- ---------------- ---------------- ------------------------
+  Leiden                       12/12                       169  LUMPED into giant community (ID 11) containing 169 proteins
+  Louvain                      11/12                       149  PARTIALLY LUMPED (11/12 subunits in giant ID 9 of size 149)
+  Label Propagation            12/12                      3840  LUMPED into giant community (ID 0) containing 3840 proteins
+  SBM (Spectral proxy)         12/12                      4540  LUMPED into giant community (ID 0) containing 4540 proteins
+  Clique Percolation           12/12                      1869  LUMPED into giant community (ID 0) containing 1869 proteins
+  Consensus                    11/12                       210  PARTIALLY LUMPED (11/12 subunits in giant ID 8 of size 210)
+  MCL (XGW baseline)            4/12                         9  PARTIALLY RECOVERED (4/12 subunits in ID 42 of size 9)
+
+------------------------------------------------------------------------------
+Complex: Kornberg's mediator (SRB) complex
+Ground-Truth Size in CYC2008: 25 proteins
+------------------------------------------------------------------------------
+Proteins: YBL093C, YBR193C, YBR253W, YCR081W, YDL005C, YDR308C, YDR443C, YER022W, YGL025C, YGL127C, YGL151W, YGR104C, YHR041C, YHR058C, YLR071C, YMR112C, YNL025C, YNL236W, YNR010W, YOL051W, YOL135C, YOR174W, YPL042C, YPR070W, YPR168W
+
+  Algorithm                    Subunits Found   Best Comm Size   Behavior / Community ID
+  ---------------------------- ---------------- ---------------- ------------------------
+  Leiden                       25/25                       308  LUMPED into giant community (ID 7) containing 308 proteins
+  Louvain                      25/25                       348  LUMPED into giant community (ID 6) containing 348 proteins
+  Label Propagation            25/25                      3840  LUMPED into giant community (ID 0) containing 3840 proteins
+  SBM (Spectral proxy)         25/25                      4540  LUMPED into giant community (ID 0) containing 4540 proteins
+  Clique Percolation           25/25                      1869  LUMPED into giant community (ID 0) containing 1869 proteins
+  Consensus                    25/25                       428  LUMPED into giant community (ID 5) containing 428 proteins
+  MCL (XGW baseline)           10/25                        11  PARTIALLY RECOVERED (10/25 subunits in ID 24 of size 11)
