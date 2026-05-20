@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-04-26">
+  <meta lastmodifieddate="2026-05-20">
     <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -190,12 +190,12 @@
       <viz:position x="217.15" y="67.6" z="0.0" /></node>
       <node id="YDR270W" label="YDR270W">
         <attvalues>
-          <attvalue for="0" value="55" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-348.07" y="674.36" z="0.0" /></node>
       <node id="YNL259C" label="YNL259C">
         <attvalues>
-          <attvalue for="0" value="55" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-188.89" y="775.08" z="0.0" /></node>
       <node id="YNL039W" label="YNL039W">
@@ -1120,7 +1120,7 @@
       <viz:position x="106.33" y="49.59" z="0.0" /></node>
       <node id="YKR084C" label="YKR084C">
         <attvalues>
-          <attvalue for="0" value="56" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="279.27" y="64.45" z="0.0" /></node>
       <node id="YLR335W" label="YLR335W">
@@ -1310,12 +1310,12 @@
       <viz:position x="-187.8" y="17.18" z="0.0" /></node>
       <node id="YDR376W" label="YDR376W">
         <attvalues>
-          <attvalue for="0" value="57" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="579.84" y="-47.64" z="0.0" /></node>
       <node id="YIR024C" label="YIR024C">
         <attvalues>
-          <attvalue for="0" value="57" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="518.93" y="63.12" z="0.0" /></node>
       <node id="YMR138W" label="YMR138W">
@@ -1550,7 +1550,7 @@
       <viz:position x="36.45" y="176.2" z="0.0" /></node>
       <node id="YOR363C" label="YOR363C">
         <attvalues>
-          <attvalue for="0" value="58" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="38.44" y="-286.03" z="0.0" /></node>
       <node id="YNL243W" label="YNL243W">
@@ -2495,12 +2495,12 @@
       <viz:position x="-427.0" y="196.79" z="0.0" /></node>
       <node id="YJR125C" label="YJR125C">
         <attvalues>
-          <attvalue for="0" value="59" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="67.31" y="-543.61" z="0.0" /></node>
       <node id="YOR111W" label="YOR111W">
         <attvalues>
-          <attvalue for="0" value="59" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="219.07" y="-474.4" z="0.0" /></node>
       <node id="YML085C" label="YML085C">
@@ -2635,7 +2635,7 @@
       <viz:position x="174.98" y="-286.09" z="0.0" /></node>
       <node id="YOL088C" label="YOL088C">
         <attvalues>
-          <attvalue for="0" value="60" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="89.11" y="-136.54" z="0.0" /></node>
       <node id="YDR335W" label="YDR335W">
@@ -3170,12 +3170,12 @@
       <viz:position x="-122.2" y="79.58" z="0.0" /></node>
       <node id="YGR057C" label="YGR057C">
         <attvalues>
-          <attvalue for="0" value="61" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-294.77" y="-115.79" z="0.0" /></node>
       <node id="YKL015W" label="YKL015W">
         <attvalues>
-          <attvalue for="0" value="61" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-517.41" y="27.61" z="0.0" /></node>
       <node id="YCR020C-A" label="YCR020C-A">
@@ -3265,7 +3265,7 @@
       <viz:position x="-40.84" y="215.66" z="0.0" /></node>
       <node id="YHR091C" label="YHR091C">
         <attvalues>
-          <attvalue for="0" value="60" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-266.62" y="48.88" z="0.0" /></node>
       <node id="YMR309C" label="YMR309C">
@@ -3560,7 +3560,7 @@
       <viz:position x="-104.4" y="234.03" z="0.0" /></node>
       <node id="YOR348C" label="YOR348C">
         <attvalues>
-          <attvalue for="0" value="62" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-548.92" y="99.79" z="0.0" /></node>
       <node id="YDL064W" label="YDL064W">
@@ -3665,12 +3665,12 @@
       <viz:position x="-103.0" y="151.89" z="0.0" /></node>
       <node id="YBL014C" label="YBL014C">
         <attvalues>
-          <attvalue for="0" value="63" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-115.78" y="-212.83" z="0.0" /></node>
       <node id="YJL025W" label="YJL025W">
         <attvalues>
-          <attvalue for="0" value="63" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="204.84" y="-257.15" z="0.0" /></node>
       <node id="YGR123C" label="YGR123C">
@@ -3725,12 +3725,12 @@
       <viz:position x="-323.18" y="-315.09" z="0.0" /></node>
       <node id="YMR228W" label="YMR228W">
         <attvalues>
-          <attvalue for="0" value="64" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-248.29" y="227.35" z="0.0" /></node>
       <node id="YCR045C" label="YCR045C">
         <attvalues>
-          <attvalue for="0" value="62" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-720.07" y="-210.34" z="0.0" /></node>
       <node id="YML095C" label="YML095C">
@@ -3900,12 +3900,12 @@
       <viz:position x="-52.32" y="-190.0" z="0.0" /></node>
       <node id="YGR213C" label="YGR213C">
         <attvalues>
-          <attvalue for="0" value="65" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="619.14" y="71.32" z="0.0" /></node>
       <node id="YHR134W" label="YHR134W">
         <attvalues>
-          <attvalue for="0" value="65" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="391.56" y="336.72" z="0.0" /></node>
       <node id="YCR009C" label="YCR009C">
@@ -4635,7 +4635,7 @@
       <viz:position x="20.55" y="79.78" z="0.0" /></node>
       <node id="YCR004C" label="YCR004C">
         <attvalues>
-          <attvalue for="0" value="66" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="6.1" y="443.42" z="0.0" /></node>
       <node id="YDR032C" label="YDR032C">
@@ -4670,7 +4670,7 @@
       <viz:position x="157.07" y="-34.46" z="0.0" /></node>
       <node id="YJL065C" label="YJL065C">
         <attvalues>
-          <attvalue for="0" value="67" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="442.29" y="-214.72" z="0.0" /></node>
       <node id="YDL063C" label="YDL063C">
@@ -5030,12 +5030,12 @@
       <viz:position x="-60.11" y="320.35" z="0.0" /></node>
       <node id="YDL146W" label="YDL146W">
         <attvalues>
-          <attvalue for="0" value="68" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-502.57" y="-245.12" z="0.0" /></node>
       <node id="YKL070W" label="YKL070W">
         <attvalues>
-          <attvalue for="0" value="68" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-801.47" y="-435.7" z="0.0" /></node>
       <node id="YDL203C" label="YDL203C">
@@ -5365,12 +5365,12 @@
       <viz:position x="637.15" y="101.31" z="0.0" /></node>
       <node id="YJR136C" label="YJR136C">
         <attvalues>
-          <attvalue for="0" value="69" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="381.07" y="240.6" z="0.0" /></node>
       <node id="YKL033W" label="YKL033W">
         <attvalues>
-          <attvalue for="0" value="69" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="316.01" y="478.91" z="0.0" /></node>
       <node id="YKL090W" label="YKL090W">
@@ -5395,12 +5395,12 @@
       <viz:position x="204.44" y="322.93" z="0.0" /></node>
       <node id="YLL062C" label="YLL062C">
         <attvalues>
-          <attvalue for="0" value="70" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-584.35" y="-107.06" z="0.0" /></node>
       <node id="YOL143C" label="YOL143C">
         <attvalues>
-          <attvalue for="0" value="70" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-495.27" y="-208.21" z="0.0" /></node>
       <node id="YLR046C" label="YLR046C">
@@ -5520,7 +5520,7 @@
       <viz:position x="112.14" y="-326.4" z="0.0" /></node>
       <node id="YKR011C" label="YKR011C">
         <attvalues>
-          <attvalue for="0" value="71" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="495.89" y="312.95" z="0.0" /></node>
       <node id="YBL010C" label="YBL010C">
@@ -5630,7 +5630,7 @@
       <viz:position x="59.79" y="57.58" z="0.0" /></node>
       <node id="YNR029C" label="YNR029C">
         <attvalues>
-          <attvalue for="0" value="67" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="606.88" y="-400.89" z="0.0" /></node>
       <node id="YOL111C" label="YOL111C">
@@ -5680,12 +5680,12 @@
       <viz:position x="-17.24" y="162.54" z="0.0" /></node>
       <node id="YLL032C" label="YLL032C">
         <attvalues>
-          <attvalue for="0" value="72" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-538.86" y="55.4" z="0.0" /></node>
       <node id="YML119W" label="YML119W">
         <attvalues>
-          <attvalue for="0" value="72" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-489.26" y="-58.13" z="0.0" /></node>
       <node id="YNR052C" label="YNR052C">
@@ -5715,12 +5715,12 @@
       <viz:position x="-526.11" y="-222.78" z="0.0" /></node>
       <node id="YNR004W" label="YNR004W">
         <attvalues>
-          <attvalue for="0" value="73" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-297.5" y="-853.37" z="0.0" /></node>
       <node id="YPL157W" label="YPL157W">
         <attvalues>
-          <attvalue for="0" value="73" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-239.43" y="-579.28" z="0.0" /></node>
       <node id="YNR068C" label="YNR068C">
@@ -6045,12 +6045,12 @@
       <viz:position x="75.82" y="-611.71" z="0.0" /></node>
       <node id="YDR397C" label="YDR397C">
         <attvalues>
-          <attvalue for="0" value="74" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-126.54" y="286.94" z="0.0" /></node>
       <node id="YER159C" label="YER159C">
         <attvalues>
-          <attvalue for="0" value="74" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-177.77" y="-47.31" z="0.0" /></node>
       <node id="YDL059C" label="YDL059C">
@@ -6195,12 +6195,12 @@
       <viz:position x="691.58" y="334.25" z="0.0" /></node>
       <node id="YKR065C" label="YKR065C">
         <attvalues>
-          <attvalue for="0" value="75" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-213.51" y="625.71" z="0.0" /></node>
       <node id="YLR036C" label="YLR036C">
         <attvalues>
-          <attvalue for="0" value="75" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-473.63" y="735.96" z="0.0" /></node>
       <node id="YLR053C" label="YLR053C">
@@ -6235,12 +6235,12 @@
       <viz:position x="-134.05" y="466.55" z="0.0" /></node>
       <node id="YLR358C" label="YLR358C">
         <attvalues>
-          <attvalue for="0" value="76" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="1.86" y="-82.15" z="0.0" /></node>
       <node id="YNL145W" label="YNL145W">
         <attvalues>
-          <attvalue for="0" value="76" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="430.28" y="-4.64" z="0.0" /></node>
       <node id="YLR132C" label="YLR132C">
@@ -7420,7 +7420,7 @@
       <viz:position x="-24.24" y="29.98" z="0.0" /></node>
       <node id="YFL036W" label="YFL036W">
         <attvalues>
-          <attvalue for="0" value="64" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="56.65" y="387.85" z="0.0" /></node>
       <node id="YDR086C" label="YDR086C">
@@ -8420,7 +8420,7 @@
       <viz:position x="96.61" y="-485.29" z="0.0" /></node>
       <node id="YOL031C" label="YOL031C">
         <attvalues>
-          <attvalue for="0" value="77" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="231.36" y="-443.86" z="0.0" /></node>
       <node id="YOL140W" label="YOL140W">
@@ -9270,7 +9270,7 @@
       <viz:position x="228.74" y="-8.81" z="0.0" /></node>
       <node id="YJL102W" label="YJL102W">
         <attvalues>
-          <attvalue for="0" value="78" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="157.15" y="439.9" z="0.0" /></node>
       <node id="YBR133C" label="YBR133C">
@@ -9390,7 +9390,7 @@
       <viz:position x="158.14" y="170.44" z="0.0" /></node>
       <node id="YMR271C" label="YMR271C">
         <attvalues>
-          <attvalue for="0" value="79" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-325.44" y="415.68" z="0.0" /></node>
       <node id="YAL055W" label="YAL055W">
@@ -9720,12 +9720,12 @@
       <viz:position x="765.37" y="-244.38" z="0.0" /></node>
       <node id="YAR020C" label="YAR020C">
         <attvalues>
-          <attvalue for="0" value="80" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="775.29" y="606.69" z="0.0" /></node>
       <node id="YBR222C" label="YBR222C">
         <attvalues>
-          <attvalue for="0" value="80" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="873.07" y="454.71" z="0.0" /></node>
       <node id="YPL023C" label="YPL023C">
@@ -10295,7 +10295,7 @@
       <viz:position x="-174.53" y="-282.68" z="0.0" /></node>
       <node id="YAL064W" label="YAL064W">
         <attvalues>
-          <attvalue for="0" value="71" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="419.27" y="150.97" z="0.0" /></node>
       <node id="YAR008W" label="YAR008W">
@@ -10815,12 +10815,12 @@
       <viz:position x="74.63" y="725.02" z="0.0" /></node>
       <node id="YBL107C" label="YBL107C">
         <attvalues>
-          <attvalue for="0" value="81" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="730.85" y="346.37" z="0.0" /></node>
       <node id="YML116W" label="YML116W">
         <attvalues>
-          <attvalue for="0" value="81" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="365.34" y="330.95" z="0.0" /></node>
       <node id="YBR004C" label="YBR004C">
@@ -10850,12 +10850,12 @@
       <viz:position x="-121.28" y="-466.26" z="0.0" /></node>
       <node id="YLR141W" label="YLR141W">
         <attvalues>
-          <attvalue for="0" value="82" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-102.74" y="128.6" z="0.0" /></node>
       <node id="YPL224C" label="YPL224C">
         <attvalues>
-          <attvalue for="0" value="82" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-228.04" y="-182.71" z="0.0" /></node>
       <node id="YDR484W" label="YDR484W">
@@ -10915,7 +10915,7 @@
       <viz:position x="-311.3" y="-16.14" z="0.0" /></node>
       <node id="YML108W" label="YML108W">
         <attvalues>
-          <attvalue for="0" value="83" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="309.1" y="-211.86" z="0.0" /></node>
       <node id="YGR207C" label="YGR207C">
@@ -11000,12 +11000,12 @@
       <viz:position x="167.74" y="-351.47" z="0.0" /></node>
       <node id="YDL237W" label="YDL237W">
         <attvalues>
-          <attvalue for="0" value="84" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-521.42" y="-300.78" z="0.0" /></node>
       <node id="YPR148C" label="YPR148C">
         <attvalues>
-          <attvalue for="0" value="84" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-307.84" y="-342.93" z="0.0" /></node>
       <node id="YHR113W" label="YHR113W">
@@ -11255,12 +11255,12 @@
       <viz:position x="308.52" y="-254.76" z="0.0" /></node>
       <node id="YKL047W" label="YKL047W">
         <attvalues>
-          <attvalue for="0" value="85" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-472.71" y="-243.03" z="0.0" /></node>
       <node id="YPL130W" label="YPL130W">
         <attvalues>
-          <attvalue for="0" value="85" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-181.35" y="-295.52" z="0.0" /></node>
       <node id="YPL125W" label="YPL125W">
@@ -11285,12 +11285,12 @@
       <viz:position x="187.62" y="303.73" z="0.0" /></node>
       <node id="YBR204C" label="YBR204C">
         <attvalues>
-          <attvalue for="0" value="86" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-898.39" y="25.67" z="0.0" /></node>
       <node id="YPL096W" label="YPL096W">
         <attvalues>
-          <attvalue for="0" value="86" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-487.63" y="85.12" z="0.0" /></node>
       <node id="YPL091W" label="YPL091W">
@@ -11405,7 +11405,7 @@
       <viz:position x="132.59" y="261.77" z="0.0" /></node>
       <node id="YOR381W" label="YOR381W">
         <attvalues>
-          <attvalue for="0" value="87" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="41.88" y="618.6" z="0.0" /></node>
       <node id="YHR026W" label="YHR026W">
@@ -11420,12 +11420,12 @@
       <viz:position x="9.91" y="-14.3" z="0.0" /></node>
       <node id="YHR211W" label="YHR211W">
         <attvalues>
-          <attvalue for="0" value="88" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-466.27" y="61.99" z="0.0" /></node>
       <node id="YOR360C" label="YOR360C">
         <attvalues>
-          <attvalue for="0" value="88" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-700.81" y="-45.39" z="0.0" /></node>
       <node id="YJR082C" label="YJR082C">
@@ -11440,7 +11440,7 @@
       <viz:position x="11.26" y="529.84" z="0.0" /></node>
       <node id="YOR350C" label="YOR350C">
         <attvalues>
-          <attvalue for="0" value="79" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="32.2" y="354.82" z="0.0" /></node>
       <node id="YGL244W" label="YGL244W">
@@ -11475,7 +11475,7 @@
       <viz:position x="-65.01" y="428.3" z="0.0" /></node>
       <node id="YNR015W" label="YNR015W">
         <attvalues>
-          <attvalue for="0" value="89" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-192.27" y="-524.39" z="0.0" /></node>
       <node id="YLR108C" label="YLR108C">
@@ -11560,12 +11560,12 @@
       <viz:position x="-249.4" y="66.31" z="0.0" /></node>
       <node id="YER010C" label="YER010C">
         <attvalues>
-          <attvalue for="0" value="90" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-84.2" y="473.71" z="0.0" /></node>
       <node id="YOR274W" label="YOR274W">
         <attvalues>
-          <attvalue for="0" value="90" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-240.0" y="631.64" z="0.0" /></node>
       <node id="YKL127W" label="YKL127W">
@@ -11630,12 +11630,12 @@
       <viz:position x="563.57" y="-551.7" z="0.0" /></node>
       <node id="YAL058W" label="YAL058W">
         <attvalues>
-          <attvalue for="0" value="91" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-341.2" y="-353.49" z="0.0" /></node>
       <node id="YOR236W" label="YOR236W">
         <attvalues>
-          <attvalue for="0" value="91" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-502.53" y="-158.43" z="0.0" /></node>
       <node id="YIL014W" label="YIL014W">
@@ -11700,12 +11700,12 @@
       <viz:position x="89.63" y="747.83" z="0.0" /></node>
       <node id="YOR131C" label="YOR131C">
         <attvalues>
-          <attvalue for="0" value="92" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-304.64" y="712.61" z="0.0" /></node>
       <node id="YPL034W" label="YPL034W">
         <attvalues>
-          <attvalue for="0" value="92" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-128.61" y="589.55" z="0.0" /></node>
       <node id="YBR137W" label="YBR137W">
@@ -11760,12 +11760,12 @@
       <viz:position x="298.44" y="59.89" z="0.0" /></node>
       <node id="YOL073C" label="YOL073C">
         <attvalues>
-          <attvalue for="0" value="93" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-17.04" y="-242.47" z="0.0" /></node>
       <node id="YOR065W" label="YOR065W">
         <attvalues>
-          <attvalue for="0" value="93" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="249.69" y="-304.73" z="0.0" /></node>
       <node id="YOR060C" label="YOR060C">
@@ -11940,7 +11940,7 @@
       <viz:position x="-203.04" y="84.79" z="0.0" /></node>
       <node id="YOL107W" label="YOL107W">
         <attvalues>
-          <attvalue for="0" value="94" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-81.57" y="322.05" z="0.0" /></node>
       <node id="YOL011W" label="YOL011W">
@@ -11985,12 +11985,12 @@
       <viz:position x="39.75" y="-685.93" z="0.0" /></node>
       <node id="YLR387C" label="YLR387C">
         <attvalues>
-          <attvalue for="0" value="95" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-858.91" y="334.97" z="0.0" /></node>
       <node id="YOL056W" label="YOL056W">
         <attvalues>
-          <attvalue for="0" value="95" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-902.04" y="214.85" z="0.0" /></node>
       <node id="YOL052C" label="YOL052C">
@@ -12010,12 +12010,12 @@
       <viz:position x="-458.95" y="131.23" z="0.0" /></node>
       <node id="YLR412W" label="YLR412W">
         <attvalues>
-          <attvalue for="0" value="77" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="101.29" y="-557.59" z="0.0" /></node>
       <node id="YJR055W" label="YJR055W">
         <attvalues>
-          <attvalue for="0" value="96" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="93.27" y="-327.22" z="0.0" /></node>
       <node id="YOL030W" label="YOL030W">
@@ -12055,7 +12055,7 @@
       <viz:position x="147.35" y="110.0" z="0.0" /></node>
       <node id="YLL012W" label="YLL012W">
         <attvalues>
-          <attvalue for="0" value="97" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="385.4" y="-213.24" z="0.0" /></node>
       <node id="YNR075W" label="YNR075W">
@@ -12195,12 +12195,12 @@
       <viz:position x="-45.22" y="-381.11" z="0.0" /></node>
       <node id="YGR149W" label="YGR149W">
         <attvalues>
-          <attvalue for="0" value="98" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-168.01" y="475.84" z="0.0" /></node>
       <node id="YNL219C" label="YNL219C">
         <attvalues>
-          <attvalue for="0" value="98" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-16.56" y="738.97" z="0.0" /></node>
       <node id="YLR453C" label="YLR453C">
@@ -12290,12 +12290,12 @@
       <viz:position x="369.57" y="78.58" z="0.0" /></node>
       <node id="YEL072W" label="YEL072W">
         <attvalues>
-          <attvalue for="0" value="99" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-368.38" y="-333.37" z="0.0" /></node>
       <node id="YOR273C" label="YOR273C">
         <attvalues>
-          <attvalue for="0" value="99" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-356.67" y="-83.23" z="0.0" /></node>
       <node id="YFR022W" label="YFR022W">
@@ -12340,7 +12340,7 @@
       <viz:position x="-29.75" y="-94.36" z="0.0" /></node>
       <node id="YHL015W" label="YHL015W">
         <attvalues>
-          <attvalue for="0" value="100" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="275.13" y="-152.9" z="0.0" /></node>
       <node id="YNR074C" label="YNR074C">
@@ -12375,7 +12375,7 @@
       <viz:position x="223.14" y="295.48" z="0.0" /></node>
       <node id="YOR095C" label="YOR095C">
         <attvalues>
-          <attvalue for="0" value="97" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="628.34" y="113.82" z="0.0" /></node>
       <node id="YBR054W" label="YBR054W">
@@ -12430,17 +12430,17 @@
       <viz:position x="493.03" y="159.0" z="0.0" /></node>
       <node id="YLR441C" label="YLR441C">
         <attvalues>
-          <attvalue for="0" value="101" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="392.28" y="396.16" z="0.0" /></node>
       <node id="YOR119C" label="YOR119C">
         <attvalues>
-          <attvalue for="0" value="101" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="493.73" y="612.87" z="0.0" /></node>
       <node id="YGL148W" label="YGL148W">
         <attvalues>
-          <attvalue for="0" value="94" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-116.92" y="744.96" z="0.0" /></node>
       <node id="YPL159C" label="YPL159C">
@@ -12850,12 +12850,12 @@
       <viz:position x="678.68" y="-245.27" z="0.0" /></node>
       <node id="YIL019W" label="YIL019W">
         <attvalues>
-          <attvalue for="0" value="102" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="429.42" y="-267.93" z="0.0" /></node>
       <node id="YMR258C" label="YMR258C">
         <attvalues>
-          <attvalue for="0" value="102" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="385.81" y="-51.45" z="0.0" /></node>
       <node id="YLR197W" label="YLR197W">
@@ -12925,12 +12925,12 @@
       <viz:position x="-197.6" y="271.84" z="0.0" /></node>
       <node id="YHR212W-A" label="YHR212W-A">
         <attvalues>
-          <attvalue for="0" value="103" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-741.34" y="-135.0" z="0.0" /></node>
       <node id="YMR182C" label="YMR182C">
         <attvalues>
-          <attvalue for="0" value="103" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-550.51" y="-61.89" z="0.0" /></node>
       <node id="YMR173W" label="YMR173W">
@@ -13105,7 +13105,7 @@
       <viz:position x="179.21" y="94.26" z="0.0" /></node>
       <node id="YLR077W" label="YLR077W">
         <attvalues>
-          <attvalue for="0" value="104" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-70.31" y="-372.39" z="0.0" /></node>
       <node id="YJR141W" label="YJR141W">
@@ -13190,7 +13190,7 @@
       <viz:position x="-336.22" y="-346.41" z="0.0" /></node>
       <node id="YGR222W" label="YGR222W">
         <attvalues>
-          <attvalue for="0" value="105" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-327.26" y="306.33" z="0.0" /></node>
       <node id="YML062C" label="YML062C">
@@ -13400,22 +13400,22 @@
       <viz:position x="-235.75" y="-145.23" z="0.0" /></node>
       <node id="YGL184C" label="YGL184C">
         <attvalues>
-          <attvalue for="0" value="106" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="108.14" y="704.15" z="0.0" /></node>
       <node id="YML127W" label="YML127W">
         <attvalues>
-          <attvalue for="0" value="106" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="215.02" y="492.37" z="0.0" /></node>
       <node id="YML125C" label="YML125C">
         <attvalues>
-          <attvalue for="0" value="107" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="379.51" y="-75.25" z="0.0" /></node>
       <node id="YLR038C" label="YLR038C">
         <attvalues>
-          <attvalue for="0" value="107" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="373.37" y="256.17" z="0.0" /></node>
       <node id="YGR163W" label="YGR163W">
@@ -13590,12 +13590,12 @@
       <viz:position x="161.49" y="-570.01" z="0.0" /></node>
       <node id="YNL034W" label="YNL034W">
         <attvalues>
-          <attvalue for="0" value="108" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="349.03" y="-431.39" z="0.0" /></node>
       <node id="YJR145C" label="YJR145C">
         <attvalues>
-          <attvalue for="0" value="108" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="452.07" y="-190.23" z="0.0" /></node>
       <node id="YNL024C" label="YNL024C">
@@ -13655,12 +13655,12 @@
       <viz:position x="-58.98" y="-230.5" z="0.0" /></node>
       <node id="YLR001C" label="YLR001C">
         <attvalues>
-          <attvalue for="0" value="109" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="827.97" y="216.85" z="0.0" /></node>
       <node id="YNL019C" label="YNL019C">
         <attvalues>
-          <attvalue for="0" value="109" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="885.13" y="68.14" z="0.0" /></node>
       <node id="YMR125W" label="YMR125W">
@@ -13705,12 +13705,12 @@
       <viz:position x="-219.77" y="-420.83" z="0.0" /></node>
       <node id="YLR299W" label="YLR299W">
         <attvalues>
-          <attvalue for="0" value="110" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="778.63" y="-507.74" z="0.0" /></node>
       <node id="YOL137W" label="YOL137W">
         <attvalues>
-          <attvalue for="0" value="110" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="815.77" y="-481.08" z="0.0" /></node>
       <node id="YLR009W" label="YLR009W">
@@ -13850,7 +13850,7 @@
       <viz:position x="-281.84" y="-248.92" z="0.0" /></node>
       <node id="YHR132C" label="YHR132C">
         <attvalues>
-          <attvalue for="0" value="111" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-111.72" y="477.84" z="0.0" /></node>
       <node id="YHR009C" label="YHR009C">
@@ -13985,12 +13985,12 @@
       <viz:position x="501.02" y="175.33" z="0.0" /></node>
       <node id="YKR016W" label="YKR016W">
         <attvalues>
-          <attvalue for="0" value="112" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-793.83" y="460.63" z="0.0" /></node>
       <node id="YLR388W" label="YLR388W">
         <attvalues>
-          <attvalue for="0" value="112" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-685.31" y="582.21" z="0.0" /></node>
       <node id="YLR385C" label="YLR385C">
@@ -14030,7 +14030,7 @@
       <viz:position x="283.04" y="349.35" z="0.0" /></node>
       <node id="YIL049W" label="YIL049W">
         <attvalues>
-          <attvalue for="0" value="113" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-446.1" y="-370.05" z="0.0" /></node>
       <node id="YEL006W" label="YEL006W">
@@ -14060,12 +14060,12 @@
       <viz:position x="-24.36" y="-99.71" z="0.0" /></node>
       <node id="YHR085W" label="YHR085W">
         <attvalues>
-          <attvalue for="0" value="114" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="84.9" y="482.69" z="0.0" /></node>
       <node id="YLR356W" label="YLR356W">
         <attvalues>
-          <attvalue for="0" value="114" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="196.33" y="729.62" z="0.0" /></node>
       <node id="YLR351C" label="YLR351C">
@@ -14340,7 +14340,7 @@
       <viz:position x="326.22" y="-194.92" z="0.0" /></node>
       <node id="YJR025C" label="YJR025C">
         <attvalues>
-          <attvalue for="0" value="83" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="458.17" y="77.89" z="0.0" /></node>
       <node id="YJL210W" label="YJL210W">
@@ -14380,7 +14380,7 @@
       <viz:position x="124.72" y="482.67" z="0.0" /></node>
       <node id="YCR016W" label="YCR016W">
         <attvalues>
-          <attvalue for="0" value="115" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="364.26" y="-349.59" z="0.0" /></node>
       <node id="YBR201W" label="YBR201W">
@@ -14430,7 +14430,7 @@
       <viz:position x="-197.83" y="-489.25" z="0.0" /></node>
       <node id="YKR052C" label="YKR052C">
         <attvalues>
-          <attvalue for="0" value="116" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-35.24" y="102.54" z="0.0" /></node>
       <node id="YHL017W" label="YHL017W">
@@ -14455,7 +14455,7 @@
       <viz:position x="-185.07" y="-9.27" z="0.0" /></node>
       <node id="YGL010W" label="YGL010W">
         <attvalues>
-          <attvalue for="0" value="117" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="69.61" y="-503.9" z="0.0" /></node>
       <node id="YNR071C" label="YNR071C">
@@ -14595,12 +14595,12 @@
       <viz:position x="491.4" y="-136.01" z="0.0" /></node>
       <node id="YJL094C" label="YJL094C">
         <attvalues>
-          <attvalue for="0" value="118" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="936.06" y="134.43" z="0.0" /></node>
       <node id="YLR193C" label="YLR193C">
         <attvalues>
-          <attvalue for="0" value="118" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="950.8" y="-48.54" z="0.0" /></node>
       <node id="YBR061C" label="YBR061C">
@@ -14655,7 +14655,7 @@
       <viz:position x="-49.9" y="-38.87" z="0.0" /></node>
       <node id="YGL263W" label="YGL263W">
         <attvalues>
-          <attvalue for="0" value="119" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-359.52" y="-326.28" z="0.0" /></node>
       <node id="YDR341C" label="YDR341C">
@@ -14665,12 +14665,12 @@
       <viz:position x="-241.05" y="225.54" z="0.0" /></node>
       <node id="YHR159W" label="YHR159W">
         <attvalues>
-          <attvalue for="0" value="120" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-184.68" y="-175.44" z="0.0" /></node>
       <node id="YKR044W" label="YKR044W">
         <attvalues>
-          <attvalue for="0" value="120" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="114.73" y="-321.61" z="0.0" /></node>
       <node id="YBR261C" label="YBR261C">
@@ -14685,7 +14685,7 @@
       <viz:position x="219.88" y="231.32" z="0.0" /></node>
       <node id="YBR285W" label="YBR285W">
         <attvalues>
-          <attvalue for="0" value="113" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-426.7" y="-241.73" z="0.0" /></node>
       <node id="YBR288C" label="YBR288C">
@@ -14965,12 +14965,12 @@
       <viz:position x="171.07" y="-346.62" z="0.0" /></node>
       <node id="YKL168C" label="YKL168C">
         <attvalues>
-          <attvalue for="0" value="121" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-242.06" y="-740.78" z="0.0" /></node>
       <node id="YLR012C" label="YLR012C">
         <attvalues>
-          <attvalue for="0" value="121" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-206.06" y="-894.61" z="0.0" /></node>
       <node id="YGR079W" label="YGR079W">
@@ -14985,7 +14985,7 @@
       <viz:position x="140.7" y="181.21" z="0.0" /></node>
       <node id="YDR520C" label="YDR520C">
         <attvalues>
-          <attvalue for="0" value="122" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-405.13" y="544.79" z="0.0" /></node>
       <node id="YKR028W" label="YKR028W">
@@ -15050,12 +15050,12 @@
       <viz:position x="-76.85" y="76.21" z="0.0" /></node>
       <node id="YDL092W" label="YDL092W">
         <attvalues>
-          <attvalue for="0" value="123" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-565.62" y="-422.32" z="0.0" /></node>
       <node id="YKL122C" label="YKL122C">
         <attvalues>
-          <attvalue for="0" value="123" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-500.39" y="-473.51" z="0.0" /></node>
       <node id="YKL098W" label="YKL098W">
@@ -15240,12 +15240,12 @@
       <viz:position x="-266.48" y="584.32" z="0.0" /></node>
       <node id="YER087W" label="YER087W">
         <attvalues>
-          <attvalue for="0" value="124" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-501.34" y="-433.16" z="0.0" /></node>
       <node id="YBR139W" label="YBR139W">
         <attvalues>
-          <attvalue for="0" value="87" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-173.83" y="517.67" z="0.0" /></node>
       <node id="YBR090C" label="YBR090C">
@@ -15350,7 +15350,7 @@
       <viz:position x="-329.22" y="-255.15" z="0.0" /></node>
       <node id="YBR246W" label="YBR246W">
         <attvalues>
-          <attvalue for="0" value="122" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-451.45" y="693.9" z="0.0" /></node>
       <node id="YBR260C" label="YBR260C">
@@ -15485,12 +15485,12 @@
       <viz:position x="27.66" y="-579.3" z="0.0" /></node>
       <node id="YBL080C" label="YBL080C">
         <attvalues>
-          <attvalue for="0" value="125" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="402.75" y="214.06" z="0.0" /></node>
       <node id="YCR106W" label="YCR106W">
         <attvalues>
-          <attvalue for="0" value="125" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="569.43" y="196.14" z="0.0" /></node>
       <node id="YJL096W" label="YJL096W">
@@ -15695,17 +15695,17 @@
       <viz:position x="-390.78" y="219.51" z="0.0" /></node>
       <node id="YLR253W" label="YLR253W">
         <attvalues>
-          <attvalue for="0" value="66" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="172.98" y="776.51" z="0.0" /></node>
       <node id="YLR227C" label="YLR227C">
         <attvalues>
-          <attvalue for="0" value="126" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-450.16" y="-343.57" z="0.0" /></node>
       <node id="YJL158C" label="YJL158C">
         <attvalues>
-          <attvalue for="0" value="127" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="707.2" y="-354.9" z="0.0" /></node>
       <node id="YLR226W" label="YLR226W">
@@ -15790,12 +15790,12 @@
       <viz:position x="-483.42" y="304.48" z="0.0" /></node>
       <node id="YCR047C" label="YCR047C">
         <attvalues>
-          <attvalue for="0" value="128" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="345.61" y="-189.22" z="0.0" /></node>
       <node id="YNL282W" label="YNL282W">
         <attvalues>
-          <attvalue for="0" value="128" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-89.06" y="-78.8" z="0.0" /></node>
       <node id="YBR265W" label="YBR265W">
@@ -16265,7 +16265,7 @@
       <viz:position x="25.47" y="-365.17" z="0.0" /></node>
       <node id="YDL231C" label="YDL231C">
         <attvalues>
-          <attvalue for="0" value="115" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="495.92" y="-560.76" z="0.0" /></node>
       <node id="YLR085C" label="YLR085C">
@@ -16395,12 +16395,12 @@
       <viz:position x="33.95" y="-401.02" z="0.0" /></node>
       <node id="YDR105C" label="YDR105C">
         <attvalues>
-          <attvalue for="0" value="129" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="369.74" y="-181.18" z="0.0" /></node>
       <node id="YNL160W" label="YNL160W">
         <attvalues>
-          <attvalue for="0" value="129" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="257.36" y="-292.59" z="0.0" /></node>
       <node id="YDR120C" label="YDR120C">
@@ -16455,12 +16455,12 @@
       <viz:position x="281.16" y="-484.3" z="0.0" /></node>
       <node id="YDR263C" label="YDR263C">
         <attvalues>
-          <attvalue for="0" value="130" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-24.75" y="794.65" z="0.0" /></node>
       <node id="YOR214C" label="YOR214C">
         <attvalues>
-          <attvalue for="0" value="130" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="182.86" y="729.08" z="0.0" /></node>
       <node id="YOR308C" label="YOR308C">
@@ -16635,12 +16635,12 @@
       <viz:position x="20.73" y="-52.76" z="0.0" /></node>
       <node id="YDR403W" label="YDR403W">
         <attvalues>
-          <attvalue for="0" value="131" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-771.47" y="-10.71" z="0.0" /></node>
       <node id="YKR053C" label="YKR053C">
         <attvalues>
-          <attvalue for="0" value="131" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-773.49" y="-187.72" z="0.0" /></node>
       <node id="YOR222W" label="YOR222W">
@@ -16705,27 +16705,27 @@
       <viz:position x="249.32" y="-561.43" z="0.0" /></node>
       <node id="YDR332W" label="YDR332W">
         <attvalues>
-          <attvalue for="0" value="132" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="635.88" y="-174.76" z="0.0" /></node>
       <node id="YMR074C" label="YMR074C">
         <attvalues>
-          <attvalue for="0" value="132" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="501.08" y="-451.94" z="0.0" /></node>
       <node id="YDR346C" label="YDR346C">
         <attvalues>
-          <attvalue for="0" value="104" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="149.56" y="-481.28" z="0.0" /></node>
       <node id="YDR349C" label="YDR349C">
         <attvalues>
-          <attvalue for="0" value="133" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-28.93" y="-458.14" z="0.0" /></node>
       <node id="YLR099C" label="YLR099C">
         <attvalues>
-          <attvalue for="0" value="133" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-195.56" y="-733.72" z="0.0" /></node>
       <node id="YDR350C" label="YDR350C">
@@ -16820,7 +16820,7 @@
       <viz:position x="134.02" y="-55.77" z="0.0" /></node>
       <node id="YIL135C" label="YIL135C">
         <attvalues>
-          <attvalue for="0" value="134" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="333.73" y="-469.55" z="0.0" /></node>
       <node id="YDR506C" label="YDR506C">
@@ -16985,7 +16985,7 @@
       <viz:position x="486.77" y="16.28" z="0.0" /></node>
       <node id="YMR118C" label="YMR118C">
         <attvalues>
-          <attvalue for="0" value="135" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="401.46" y="-423.85" z="0.0" /></node>
       <node id="YOR143C" label="YOR143C">
@@ -17080,7 +17080,7 @@
       <viz:position x="-336.11" y="-111.82" z="0.0" /></node>
       <node id="YER069W" label="YER069W">
         <attvalues>
-          <attvalue for="0" value="136" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="84.09" y="-223.19" z="0.0" /></node>
       <node id="YLR214W" label="YLR214W">
@@ -17115,7 +17115,7 @@
       <viz:position x="383.25" y="24.96" z="0.0" /></node>
       <node id="YPL257W" label="YPL257W">
         <attvalues>
-          <attvalue for="0" value="117" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-106.88" y="-500.89" z="0.0" /></node>
       <node id="YER077C" label="YER077C">
@@ -17270,7 +17270,7 @@
       <viz:position x="21.74" y="0.34" z="0.0" /></node>
       <node id="YDL036C" label="YDL036C">
         <attvalues>
-          <attvalue for="0" value="124" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-476.98" y="-602.7" z="0.0" /></node>
       <node id="YDR459C" label="YDR459C">
@@ -17330,12 +17330,12 @@
       <viz:position x="47.12" y="599.33" z="0.0" /></node>
       <node id="YER153C" label="YER153C">
         <attvalues>
-          <attvalue for="0" value="137" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="8.81" y="180.12" z="0.0" /></node>
       <node id="YJL170C" label="YJL170C">
         <attvalues>
-          <attvalue for="0" value="137" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="29.64" y="-231.9" z="0.0" /></node>
       <node id="YFL020C" label="YFL020C">
@@ -17345,12 +17345,12 @@
       <viz:position x="-36.16" y="-436.93" z="0.0" /></node>
       <node id="YER169W" label="YER169W">
         <attvalues>
-          <attvalue for="0" value="138" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="493.22" y="449.18" z="0.0" /></node>
       <node id="YPL071C" label="YPL071C">
         <attvalues>
-          <attvalue for="0" value="138" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="349.11" y="591.81" z="0.0" /></node>
       <node id="YKL124W" label="YKL124W">
@@ -17360,7 +17360,7 @@
       <viz:position x="55.23" y="-580.7" z="0.0" /></node>
       <node id="YJL125C" label="YJL125C">
         <attvalues>
-          <attvalue for="0" value="139" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="428.55" y="313.84" z="0.0" /></node>
       <node id="YER186C" label="YER186C">
@@ -17430,17 +17430,17 @@
       <viz:position x="847.78" y="-453.21" z="0.0" /></node>
       <node id="YFL052W" label="YFL052W">
         <attvalues>
-          <attvalue for="0" value="139" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="756.42" y="272.85" z="0.0" /></node>
       <node id="YFL065C" label="YFL065C">
         <attvalues>
-          <attvalue for="0" value="140" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-952.27" y="161.97" z="0.0" /></node>
       <node id="YLR415C" label="YLR415C">
         <attvalues>
-          <attvalue for="0" value="140" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-963.68" y="-16.12" z="0.0" /></node>
       <node id="YFR003C" label="YFR003C">
@@ -17485,12 +17485,12 @@
       <viz:position x="-213.12" y="-98.83" z="0.0" /></node>
       <node id="YDR275W" label="YDR275W">
         <attvalues>
-          <attvalue for="0" value="141" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="408.84" y="-732.39" z="0.0" /></node>
       <node id="YDR363W" label="YDR363W">
         <attvalues>
-          <attvalue for="0" value="141" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="285.17" y="-627.3" z="0.0" /></node>
       <node id="YKR050W" label="YKR050W">
@@ -17570,7 +17570,7 @@
       <viz:position x="269.53" y="194.16" z="0.0" /></node>
       <node id="YDR536W" label="YDR536W">
         <attvalues>
-          <attvalue for="0" value="134" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="589.81" y="-460.66" z="0.0" /></node>
       <node id="YDR541C" label="YDR541C">
@@ -17610,12 +17610,12 @@
       <viz:position x="143.28" y="509.06" z="0.0" /></node>
       <node id="YBR056W" label="YBR056W">
         <attvalues>
-          <attvalue for="0" value="142" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="682.68" y="-554.62" z="0.0" /></node>
       <node id="YFR007W" label="YFR007W">
         <attvalues>
-          <attvalue for="0" value="142" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="517.12" y="-706.26" z="0.0" /></node>
       <node id="YOL080C" label="YOL080C">
@@ -17645,7 +17645,7 @@
       <viz:position x="891.3" y="82.92" z="0.0" /></node>
       <node id="YLL031C" label="YLL031C">
         <attvalues>
-          <attvalue for="0" value="100" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="382.37" y="-548.87" z="0.0" /></node>
       <node id="YDL037C" label="YDL037C">
@@ -17690,12 +17690,12 @@
       <viz:position x="-487.99" y="-231.07" z="0.0" /></node>
       <node id="YGL032C" label="YGL032C">
         <attvalues>
-          <attvalue for="0" value="143" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="166.49" y="-920.06" z="0.0" /></node>
       <node id="YGR257C" label="YGR257C">
         <attvalues>
-          <attvalue for="0" value="143" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="50.35" y="-605.0" z="0.0" /></node>
       <node id="YGL090W" label="YGL090W">
@@ -17820,7 +17820,7 @@
       <viz:position x="186.55" y="698.49" z="0.0" /></node>
       <node id="YGR141W" label="YGR141W">
         <attvalues>
-          <attvalue for="0" value="144" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-456.83" y="-142.77" z="0.0" /></node>
       <node id="YGR145W" label="YGR145W">
@@ -17870,7 +17870,7 @@
       <viz:position x="251.92" y="2.05" z="0.0" /></node>
       <node id="YJL035C" label="YJL035C">
         <attvalues>
-          <attvalue for="0" value="145" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="741.28" y="199.04" z="0.0" /></node>
       <node id="YGR185C" label="YGR185C">
@@ -17930,7 +17930,7 @@
       <viz:position x="577.42" y="-266.28" z="0.0" /></node>
       <node id="YGR276C" label="YGR276C">
         <attvalues>
-          <attvalue for="0" value="89" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-499.88" y="-703.95" z="0.0" /></node>
       <node id="YGR283C" label="YGR283C">
@@ -18095,12 +18095,12 @@
       <viz:position x="-587.31" y="-181.57" z="0.0" /></node>
       <node id="YMR265C" label="YMR265C">
         <attvalues>
-          <attvalue for="0" value="144" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-726.17" y="-125.84" z="0.0" /></node>
       <node id="YHR109W" label="YHR109W">
         <attvalues>
-          <attvalue for="0" value="146" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-248.34" y="465.54" z="0.0" /></node>
       <node id="YDR183W" label="YDR183W">
@@ -18385,22 +18385,22 @@
       <viz:position x="180.51" y="424.92" z="0.0" /></node>
       <node id="YHR151C" label="YHR151C">
         <attvalues>
-          <attvalue for="0" value="147" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-265.92" y="-610.18" z="0.0" /></node>
       <node id="YNL193W" label="YNL193W">
         <attvalues>
-          <attvalue for="0" value="147" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-427.83" y="-509.21" z="0.0" /></node>
       <node id="YDR287W" label="YDR287W">
         <attvalues>
-          <attvalue for="0" value="148" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-15.77" y="800.15" z="0.0" /></node>
       <node id="YHR163W" label="YHR163W">
         <attvalues>
-          <attvalue for="0" value="148" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="139.35" y="751.28" z="0.0" /></node>
       <node id="YER147C" label="YER147C">
@@ -18510,12 +18510,12 @@
       <viz:position x="242.5" y="13.57" z="0.0" /></node>
       <node id="YIL103W" label="YIL103W">
         <attvalues>
-          <attvalue for="0" value="149" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-447.21" y="-151.87" z="0.0" /></node>
       <node id="YKL191W" label="YKL191W">
         <attvalues>
-          <attvalue for="0" value="149" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-125.67" y="-343.97" z="0.0" /></node>
       <node id="YIL108W" label="YIL108W">
@@ -18575,7 +18575,7 @@
       <viz:position x="133.06" y="-187.81" z="0.0" /></node>
       <node id="YJL010C" label="YJL010C">
         <attvalues>
-          <attvalue for="0" value="146" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-517.17" y="331.38" z="0.0" /></node>
       <node id="YBR070C" label="YBR070C">
@@ -18615,12 +18615,12 @@
       <viz:position x="81.42" y="-890.85" z="0.0" /></node>
       <node id="YJL071W" label="YJL071W">
         <attvalues>
-          <attvalue for="0" value="136" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-222.83" y="38.75" z="0.0" /></node>
       <node id="YIR013C" label="YIR013C">
         <attvalues>
-          <attvalue for="0" value="78" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="124.6" y="733.13" z="0.0" /></node>
       <node id="YJL134W" label="YJL134W">
@@ -18665,12 +18665,12 @@
       <viz:position x="273.04" y="-339.63" z="0.0" /></node>
       <node id="YJR030C" label="YJR030C">
         <attvalues>
-          <attvalue for="0" value="127" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="949.21" y="-292.69" z="0.0" /></node>
       <node id="YPL193W" label="YPL193W">
         <attvalues>
-          <attvalue for="0" value="96" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-20.99" y="-636.66" z="0.0" /></node>
       <node id="YBR185C" label="YBR185C">
@@ -18760,7 +18760,7 @@
       <viz:position x="-425.16" y="242.96" z="0.0" /></node>
       <node id="YNL291C" label="YNL291C">
         <attvalues>
-          <attvalue for="0" value="111" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-55.85" y="411.07" z="0.0" /></node>
       <node id="YJL026W" label="YJL026W">
@@ -18955,7 +18955,7 @@
       <viz:position x="269.14" y="110.57" z="0.0" /></node>
       <node id="YML054C" label="YML054C">
         <attvalues>
-          <attvalue for="0" value="150" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="530.06" y="231.86" z="0.0" /></node>
       <node id="YER173W" label="YER173W">
@@ -19140,7 +19140,7 @@
       <viz:position x="-206.22" y="-8.34" z="0.0" /></node>
       <node id="YKL148C" label="YKL148C">
         <attvalues>
-          <attvalue for="0" value="151" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-531.47" y="-74.7" z="0.0" /></node>
       <node id="YDR443C" label="YDR443C">
@@ -19210,7 +19210,7 @@
       <viz:position x="154.53" y="-303.9" z="0.0" /></node>
       <node id="YLR316C" label="YLR316C">
         <attvalues>
-          <attvalue for="0" value="145" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="1000.0" y="162.33" z="0.0" /></node>
       <node id="YAL013W" label="YAL013W">
@@ -19245,7 +19245,7 @@
       <viz:position x="-261.81" y="30.63" z="0.0" /></node>
       <node id="YAL051W" label="YAL051W">
         <attvalues>
-          <attvalue for="0" value="58" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="310.2" y="-28.95" z="0.0" /></node>
       <node id="YNL068C" label="YNL068C">
@@ -19535,12 +19535,12 @@
       <viz:position x="-184.23" y="-454.59" z="0.0" /></node>
       <node id="YOR063W" label="YOR063W">
         <attvalues>
-          <attvalue for="0" value="152" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-575.26" y="-263.23" z="0.0" /></node>
       <node id="YMR131C" label="YMR131C">
         <attvalues>
-          <attvalue for="0" value="152" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-839.62" y="-360.34" z="0.0" /></node>
       <node id="YNL040W" label="YNL040W">
@@ -19930,12 +19930,12 @@
       <viz:position x="-150.43" y="-137.33" z="0.0" /></node>
       <node id="YJL165C" label="YJL165C">
         <attvalues>
-          <attvalue for="0" value="153" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="365.19" y="729.13" z="0.0" /></node>
       <node id="YOL103W" label="YOL103W">
         <attvalues>
-          <attvalue for="0" value="153" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="306.68" y="401.43" z="0.0" /></node>
       <node id="YKR046C" label="YKR046C">
@@ -20310,7 +20310,7 @@
       <viz:position x="-105.2" y="161.78" z="0.0" /></node>
       <node id="YAL025C" label="YAL025C">
         <attvalues>
-          <attvalue for="0" value="154" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-216.46" y="-420.39" z="0.0" /></node>
       <node id="YGL146C" label="YGL146C">
@@ -21050,7 +21050,7 @@
       <viz:position x="-322.81" y="-459.9" z="0.0" /></node>
       <node id="YHR065C" label="YHR065C">
         <attvalues>
-          <attvalue for="0" value="155" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="458.36" y="-30.97" z="0.0" /></node>
       <node id="YLL048C" label="YLL048C">
@@ -21725,7 +21725,7 @@
       <viz:position x="-157.25" y="-1.6" z="0.0" /></node>
       <node id="YIL009C-A" label="YIL009C-A">
         <attvalues>
-          <attvalue for="0" value="156" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="252.19" y="-407.3" z="0.0" /></node>
       <node id="YNL224C" label="YNL224C">
@@ -22125,7 +22125,7 @@
       <viz:position x="-318.27" y="-10.14" z="0.0" /></node>
       <node id="YPL063W" label="YPL063W">
         <attvalues>
-          <attvalue for="0" value="150" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="549.46" y="186.32" z="0.0" /></node>
       <node id="YBR283C" label="YBR283C">
@@ -22170,7 +22170,7 @@
       <viz:position x="178.09" y="326.06" z="0.0" /></node>
       <node id="YNR045W" label="YNR045W">
         <attvalues>
-          <attvalue for="0" value="105" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-694.69" y="412.51" z="0.0" /></node>
       <node id="Q0275" label="Q0275">
@@ -22575,7 +22575,7 @@
       <viz:position x="-520.62" y="-70.52" z="0.0" /></node>
       <node id="YJR095W" label="YJR095W">
         <attvalues>
-          <attvalue for="0" value="119" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-274.23" y="-394.62" z="0.0" /></node>
       <node id="YML003W" label="YML003W">
@@ -22975,12 +22975,12 @@
       <viz:position x="322.25" y="125.42" z="0.0" /></node>
       <node id="YDL248W" label="YDL248W">
         <attvalues>
-          <attvalue for="0" value="157" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="755.4" y="-338.24" z="0.0" /></node>
       <node id="YFL004W" label="YFL004W">
         <attvalues>
-          <attvalue for="0" value="157" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="790.81" y="-223.13" z="0.0" /></node>
       <node id="YFL025C" label="YFL025C">
@@ -23095,7 +23095,7 @@
       <viz:position x="454.48" y="-160.56" z="0.0" /></node>
       <node id="YIL166C" label="YIL166C">
         <attvalues>
-          <attvalue for="0" value="158" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="424.92" y="-447.4" z="0.0" /></node>
       <node id="YIL120W" label="YIL120W">
@@ -23125,7 +23125,7 @@
       <viz:position x="199.49" y="116.29" z="0.0" /></node>
       <node id="YKL217W" label="YKL217W">
         <attvalues>
-          <attvalue for="0" value="158" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="288.97" y="-602.03" z="0.0" /></node>
       <node id="YKL219W" label="YKL219W">
@@ -23170,7 +23170,7 @@
       <viz:position x="382.17" y="373.01" z="0.0" /></node>
       <node id="YPL134C" label="YPL134C">
         <attvalues>
-          <attvalue for="0" value="135" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="585.09" y="-703.97" z="0.0" /></node>
       <node id="YNL083W" label="YNL083W">
@@ -23215,17 +23215,17 @@
       <viz:position x="-119.38" y="574.46" z="0.0" /></node>
       <node id="YNL275W" label="YNL275W">
         <attvalues>
-          <attvalue for="0" value="116" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="155.15" y="-192.64" z="0.0" /></node>
       <node id="YNR002C" label="YNR002C">
         <attvalues>
-          <attvalue for="0" value="159" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="509.09" y="366.54" z="0.0" /></node>
       <node id="YOR130C" label="YOR130C">
         <attvalues>
-          <attvalue for="0" value="159" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="490.52" y="685.02" z="0.0" /></node>
       <node id="YGL247W" label="YGL247W">
@@ -23265,12 +23265,12 @@
       <viz:position x="-248.54" y="-67.65" z="0.0" /></node>
       <node id="YLR318W" label="YLR318W">
         <attvalues>
-          <attvalue for="0" value="156" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="344.07" y="-398.24" z="0.0" /></node>
       <node id="YJR044C" label="YJR044C">
         <attvalues>
-          <attvalue for="0" value="154" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="50.24" y="-519.49" z="0.0" /></node>
       <node id="YCL019W" label="YCL019W">
@@ -23300,17 +23300,17 @@
       <viz:position x="61.23" y="-778.04" z="0.0" /></node>
       <node id="YDR367W" label="YDR367W">
         <attvalues>
-          <attvalue for="0" value="155" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="529.67" y="0.63" z="0.0" /></node>
       <node id="YDR262W" label="YDR262W">
         <attvalues>
-          <attvalue for="0" value="160" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="48.04" y="871.51" z="0.0" /></node>
       <node id="YDR454C" label="YDR454C">
         <attvalues>
-          <attvalue for="0" value="160" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-156.5" y="844.84" z="0.0" /></node>
       <node id="YMR119W" label="YMR119W">
@@ -23345,7 +23345,7 @@
       <viz:position x="-377.69" y="624.77" z="0.0" /></node>
       <node id="YML133C" label="YML133C">
         <attvalues>
-          <attvalue for="0" value="126" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-299.16" y="-416.19" z="0.0" /></node>
       <node id="YBR219C" label="YBR219C">
@@ -23395,12 +23395,12 @@
       <viz:position x="383.84" y="-339.74" z="0.0" /></node>
       <node id="YBL113C" label="YBL113C">
         <attvalues>
-          <attvalue for="0" value="161" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-307.04" y="-125.41" z="0.0" /></node>
       <node id="YLR348C" label="YLR348C">
         <attvalues>
-          <attvalue for="0" value="161" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-78.44" y="-347.34" z="0.0" /></node>
       <node id="YLR057W" label="YLR057W">
@@ -23505,7 +23505,7 @@
       <viz:position x="-264.31" y="-112.77" z="0.0" /></node>
       <node id="YNL001W" label="YNL001W">
         <attvalues>
-          <attvalue for="0" value="56" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="340.36" y="-245.94" z="0.0" /></node>
       <node id="YEL077C" label="YEL077C">
@@ -23630,12 +23630,12 @@
       <viz:position x="28.66" y="-259.07" z="0.0" /></node>
       <node id="YBL071W-A" label="YBL071W-A">
         <attvalues>
-          <attvalue for="0" value="162" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-514.21" y="131.97" z="0.0" /></node>
       <node id="YAL020C" label="YAL020C">
         <attvalues>
-          <attvalue for="0" value="162" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-463.13" y="387.74" z="0.0" /></node>
       <node id="YMR031C" label="YMR031C">
@@ -23650,12 +23650,12 @@
       <viz:position x="471.67" y="-316.38" z="0.0" /></node>
       <node id="YDL160C-A" label="YDL160C-A">
         <attvalues>
-          <attvalue for="0" value="163" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="183.18" y="440.37" z="0.0" /></node>
       <node id="YOL086W-A" label="YOL086W-A">
         <attvalues>
-          <attvalue for="0" value="163" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="403.81" y="230.72" z="0.0" /></node>
       <node id="YGL211W" label="YGL211W">
@@ -23725,7 +23725,7 @@
       <viz:position x="298.01" y="-209.2" z="0.0" /></node>
       <node id="YOL071W" label="YOL071W">
         <attvalues>
-          <attvalue for="0" value="151" />
+          <attvalue for="0" value="-1" />
         </attvalues>
       <viz:position x="-813.36" y="-81.32" z="0.0" /></node>
       <node id="YHR192W" label="YHR192W">
